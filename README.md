@@ -20,3 +20,25 @@
 
 5. It worked! Yippie! 
 <img width="1920" height="1200" alt="5" src="https://github.com/user-attachments/assets/f08f99c4-9751-48a2-9df4-7a02efea542f" />
+
+
+
+
+
+
+# B
+
+1. Made the workflow
+<img width="1920" height="1200" alt="b1" src="https://github.com/user-attachments/assets/2c6089ee-cf80-4473-a013-32e8d147740f" />
+
+2. The webhook has been created.
+<img width="1920" height="1200" alt="2b" src="https://github.com/user-attachments/assets/f24667aa-805c-4afa-b278-e167ee372d22" />
+
+
+3. Created the response. It was hidden and not intuitive, but after asking for help, I figured it out.
+<img width="1920" height="1200" alt="b3" src="https://github.com/user-attachments/assets/e7914ecc-68ad-4064-941c-ef7cae91c9da" />
+
+
+4. The webhook respond has been configured as in the point A.
+<img width="1920" height="1200" alt="b4" src="https://github.com/user-attachments/assets/ace2ad60-e5f3-476b-b781-658da486a024" />
+
