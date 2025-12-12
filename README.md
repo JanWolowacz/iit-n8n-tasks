@@ -45,3 +45,34 @@
 
 5. I tested it, and the output is not good. I am sure I've done everything as the task guided me to, yet the result is not satisfying. My collegues got similar issue.
 <img width="1920" height="1200" alt="b5" src="https://github.com/user-attachments/assets/e53b5bf1-9037-468c-94cd-6e9480e9a341" />
+
+
+
+# C
+
+1. I've got the drill... workflow made
+<img width="1280" height="720" alt="c1" src="https://github.com/user-attachments/assets/97890103-3a96-456d-b701-3972dd7d458c" />
+
+
+2. Webhook added! I've done this before
+<img width="1280" height="720" alt="c2" src="https://github.com/user-attachments/assets/9fb15642-1641-46de-9eb6-b4dd45b51b52" />
+
+
+3. Code node created. And copy pasted the code
+<img width="1280" height="720" alt="c3" src="https://github.com/user-attachments/assets/53e4447a-45c5-4659-85c5-8d274a0809ee" />
+
+
+4. Struggled with making the file. Codespace didn't want to pull properly, therefore crashing the execution
+<img width="1280" height="720" alt="c4" src="https://github.com/user-attachments/assets/3cb082a8-e319-4fea-893e-76558f913a76" />
+
+
+5. The answer node has been configured as it was supposed to. Nothing special
+<img width="1280" height="720" alt="c5" src="https://github.com/user-attachments/assets/a53c2bcd-a3ce-408f-9ec4-8f7acbd38b19" />
+
+
+6. There is some output. Suspicious that it's all ok now
+<img width="1280" height="720" alt="c6" src="https://github.com/user-attachments/assets/e6067350-6e39-49a6-8fb7-2df714816b38" />
+
+
+7. There is some outputs in the text file. Not sure if they were supposed to give empty notes, but at least it's working!
+<img width="1280" height="720" alt="c7" src="https://github.com/user-attachments/assets/a39fde11-9760-4e71-8fe5-e6f592697296" />
