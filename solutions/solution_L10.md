@@ -26,11 +26,17 @@
 <img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/43b5617d-64a7-47b6-837f-82907df2b23a" />
 
 
-<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/222834ad-037c-437b-8685-a66300c04d73" />
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/62f7982d-1636-474e-96de-3b2709a6ceba" />
 
 
 <img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/0efb332c-40f0-4b0a-9deb-448c8f48500a" />
 
+
+![Uploading obraz.png…]()
+
+
+
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/0f2f82b1-dcd1-4b4d-9d34-8053371e7307" />
 
 
 
