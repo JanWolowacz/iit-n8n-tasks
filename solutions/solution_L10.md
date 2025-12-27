@@ -21,3 +21,16 @@
 
 
 <img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/45748dec-76d9-441e-92d3-ee7805f00a12" />
+
+
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/43b5617d-64a7-47b6-837f-82907df2b23a" />
+
+
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/222834ad-037c-437b-8685-a66300c04d73" />
+
+
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/0efb332c-40f0-4b0a-9deb-448c8f48500a" />
+
+
+
+
