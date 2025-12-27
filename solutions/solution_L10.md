@@ -1,4 +1,4 @@
-
+# A
 
 <img width="1920" height="1200" alt="l10a1" src="https://github.com/user-attachments/assets/b6cc62f6-edd4-4ef6-a19b-b2c8e5e6e769" />
 
@@ -16,3 +16,8 @@
 
 <img width="1920" height="1200" alt="l10a5" src="https://github.com/user-attachments/assets/7d6c93ad-2451-4ed2-a411-1c406f461ef8" />
 
+
+# B
+
+
+<img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/45748dec-76d9-441e-92d3-ee7805f00a12" />
