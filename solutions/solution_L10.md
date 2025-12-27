@@ -32,10 +32,6 @@
 <img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/0efb332c-40f0-4b0a-9deb-448c8f48500a" />
 
 
-![Uploading obraz.png…]()
-
-
-
 <img width="1919" height="1079" alt="obraz" src="https://github.com/user-attachments/assets/0f2f82b1-dcd1-4b4d-9d34-8053371e7307" />
 
 
